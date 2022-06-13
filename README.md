@@ -1,3 +1,6 @@
+<img src="./img/1337Projects-banner.gif" alt="1337 banner">
+
+
 # <img src="./img/1337-logo.jpeg" width="80" alt="1337 school logo"> **1337-Projects**
 All the project that i worked on in 1337 (42 network) computer science school
 

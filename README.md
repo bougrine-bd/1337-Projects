@@ -2,7 +2,7 @@
 
 
 # <img src="./img/1337-logo.jpeg" width="80" alt="1337 school logo"> **1337-Projects**
-All the project that i worked on in 1337 (42 network) computer science school
+All the projects that I worked on at 1337 (42 network) computer science school.
 
 ## <img src="./img/C-logo.png" width="30" alt="C programing logo"> C-Projects :
 

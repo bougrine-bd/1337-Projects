@@ -1,4 +1,4 @@
-<img src="./img/1337Projects-banner.gif" alt="1337 banner">
+<img src="./img/1337BannerGif.gif" alt="1337 banner">
 
 
 # <img src="./img/1337-logo.jpeg" width="65" alt="1337 school logo"> **1337 Projects**

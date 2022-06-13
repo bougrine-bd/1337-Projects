@@ -1,9 +1,10 @@
 # 1337-Projects
 All the project that i worked on in 1337 (42 network) computer science school
 
-## C-Projects ![C programing logo](./img/C-logo.png)
+## C-Projects <img src="./img/C-logo.png" width="50" alt="C programing logo">
 
-## C++-Projects ![CPP programing logo](./img/CPP-logo.png)
+## C++-Projects <img src="./img/CPP-logo.png" width="50" alt="CPP programing logo">
+
 ## Network & System administration 
 
 

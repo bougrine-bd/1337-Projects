@@ -11,7 +11,7 @@ All the projects that I worked on at 1337 (42 network) computer science school.
 	<li><a href="./Get_next_line">Get next line</a>.</li>
 	<li><a href="./ft_printf">ft_printf</a>.</li>
 	<li><a href="./Cube3D/">Cube3D</a>.</li>
-	<li><a href="./minishell">Minishell</a>.</li>
+	<li><a href="./minishell">Minishell</a> Collab with<strong> <a href="https://github.com/moukasso">@oukassou</a></strong>.</li>
 	<li><a href="./minitalk">Minitalk</a></li>
 	<li><a href="./Philosophers">Philosophers</a>.</li>
 	<li><a href="./push_swap">Push swap</a>.</li>
